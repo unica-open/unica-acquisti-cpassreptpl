@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.23" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isdisplay__Programma_id_1208_0</property>
+            <property name="value">7698a757-64ae-5596-bf48-883b8706cbcf</property>
+        </structure>
+        <structure>
+            <property name="name">Programma_id_1208_1</property>
+            <property name="value">7698a757-64ae-5596-bf48-883b8706cbcf</property>
+        </structure>
+        <structure>
+            <property name="name">Programma_id_1208_type_</property>
+            <property name="value">string</property>
+        </structure>
+    </list-property>
+</report>

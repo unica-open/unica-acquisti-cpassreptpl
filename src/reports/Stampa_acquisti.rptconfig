@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.23" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isnull_1208_0</property>
+            <property name="value">p_programma_id_1208</property>
+        </structure>
+        <structure>
+            <property name="name">p_programma_id_1208_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_12980_1</property>
+            <property name="value">p_cup_12980</property>
+        </structure>
+        <structure>
+            <property name="name">p_cup_12980_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_12981_2</property>
+            <property name="value">p_settore_interventi_12981</property>
+        </structure>
+        <structure>
+            <property name="name">p_settore_interventi_12981_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_12982_3</property>
+            <property name="value">p_struttura_id_12982</property>
+        </structure>
+        <structure>
+            <property name="name">p_struttura_id_12982_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_12983_4</property>
+            <property name="value">p_cpv_id_12983</property>
+        </structure>
+        <structure>
+            <property name="name">p_cpv_id_12983_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_12984_5</property>
+            <property name="value">p_cognome_12984</property>
+        </structure>
+        <structure>
+            <property name="name">p_cognome_12984_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__p_descri_12985_6</property>
+            <property name="value">prova</property>
+        </structure>
+        <structure>
+            <property name="name">__isnull_12986_7</property>
+            <property name="value">p_order_12986</property>
+        </structure>
+        <structure>
+            <property name="name">p_order_12986_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">p_descri_12985_8</property>
+            <property name="value">prova</property>
+        </structure>
+        <structure>
+            <property name="name">p_descri_12985_type_</property>
+            <property name="value">string</property>
+        </structure>
+    </list-property>
+</report>
